@@ -1,6 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=27&pause=500&color=3FCD63&background=FFFD2D00&width=435&lines=Rentora+Sphere+V1+-+MySQL+Core)](https://git.io/typing-svg)
 
-This repository contains the core database architecture for **Rentora Sphere**, a real estate management system. 
+A relational database implementation of the Rentora Sphere system using MySQL, focusing on data integrity and ACID transactions.
+This repository contains the core database architecture for **Rentora Sphere**, a real estate management system.
 
 [![MySQL](https://img.shields.io/badge/MySQL-Database-00758F?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![draw.io](https://img.shields.io/badge/draw.io-ER%20Design-F08705?logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net/)
