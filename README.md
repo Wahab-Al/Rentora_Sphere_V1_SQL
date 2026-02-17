@@ -25,9 +25,10 @@ The system is built on a relational model focusing on:
 <br></br>
 <h2>Owners & thier Units</h2>
 <img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/df653c40bd62db7bfe1135f445ea43d9496e8d5b/docs/owner%26units.png" width="700"/><br></br>
-<h2>Units & Users</h2>
+<h2>Units</h2>
 <img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/df653c40bd62db7bfe1135f445ea43d9496e8d5b/docs/units.png" width="700"/>
-
+<h2>Users</h2>
+<img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/062d8967347bc5eb9a2905bc3b6a60d9a9124a06/docs/users.png" width="700"/>
 
 
 ## 🚀 How to deploy
