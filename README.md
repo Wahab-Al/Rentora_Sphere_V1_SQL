@@ -18,10 +18,15 @@ The system is built on a relational model focusing on:
 
 ## Secreenshots:
 <h2>ER Diagram - Workbench</h2>
-<img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/b72a338d5d641f8a9ea9ede32827d21a2a7aaca4/screenshots/ER_Workbench.png" width="700"/>
+<img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/df653c40bd62db7bfe1135f445ea43d9496e8d5b/docs/ER_Workbench.png" width="700"/>
 <br><br>
 <h2>ER Diagram - draw.io</h2>
 <img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/b72a338d5d641f8a9ea9ede32827d21a2a7aaca4/screenshots/ER_drawio.png" width="700"/>
+<br></br>
+<h2>Owners & thier Units</h2>
+<img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/df653c40bd62db7bfe1135f445ea43d9496e8d5b/docs/owner%26units.png" width="700"/><br></br>
+<h2>Units</h2>
+<img src="https://raw.githubusercontent.com/Wahab-Al/Rentora_Sphere_V1_SQL/df653c40bd62db7bfe1135f445ea43d9496e8d5b/docs/units.png" width="700"/>
 
 
 ## 🚀 How to deploy
