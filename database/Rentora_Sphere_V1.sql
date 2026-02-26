@@ -1,4 +1,4 @@
-
+/** Users Table */
 CREATE TABLE users (
     id INT PRIMARY KEY AUTO_INCREMENT, 
     user_id VARCHAR(50) NOT NULL UNIQUE, 
@@ -16,6 +16,7 @@ CREATE TABLE users (
     refreshToken VARCHAR(255) NULL
 );
 
+/** Units Table */
 create Table units(
 	id INT PRIMARY KEY AUTO_INCREMENT, 
     unit_id VARCHAR(50) NOT NULL UNIQUE,
@@ -33,7 +34,7 @@ create Table units(
     updatedAt DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );
 
-
+/** Rent_Contracts Table */
 create table rent_contracts(
 	id INT PRIMARY KEY AUTO_INCREMENT, 
     contract_id VARCHAR(50) NOT NULL UNIQUE,
@@ -61,4 +62,3 @@ create table rent_contracts(
     foreign key (unit)
     references units(unit_id)
 );
-
